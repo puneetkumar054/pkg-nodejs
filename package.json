@@ -17,6 +17,7 @@
   "pkg": {
     "assets": [
       "./node_modules/**/*",
+      "./build/**/*",
       "./public/**/*",
       "./views/**/*"
     ]
